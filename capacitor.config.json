@@ -1,0 +1,13 @@
+{
+  "appId": "com.victor.wang.demo.app",
+  "appName": "demo-app-vue-js",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
